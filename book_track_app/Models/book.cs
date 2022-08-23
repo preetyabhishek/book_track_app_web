@@ -3,9 +3,9 @@ namespace book_track_app.Models
 {
     public class book
     {
-        public book()
-        {
-            public string ISBN { get; set; }
+        public book();
+      
+           public string ISBN { get; set; }
 
             
             public string Title { get; set; }
@@ -17,8 +17,5 @@ namespace book_track_app.Models
             [Display(Name = "Category")]
             [Required]*/
             public string CategoryId { get; set; }
-          };
+          }
     }
-}
-
-
