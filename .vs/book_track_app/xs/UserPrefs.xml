@@ -1,13 +1,36 @@
 ﻿<Properties StartupConfiguration="{455988F6-32AA-4710-98CD-8D75E2DBB218}|Default">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="book_track_app/Models/book.cs">
+    <Files>
+      <File FileName="book_track_app/Models/book.cs" Line="25" Column="3" />
+      <File FileName="book_track_app/Models/category.cs" Line="12" Column="48" />
+      <File FileName="book_track_app/Models/categorytype.cs" Line="13" Column="33" />
+      <File FileName="book_track_app/Properties/launchSettings.json" Line="26" Column="6" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="book_track_app" expanded="True">
             <Node name="book_track_app" expanded="True">
-              <Node name="Models" expanded="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="book.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="lib" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -21,5 +44,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.book__track__app PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.book__track__app PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
